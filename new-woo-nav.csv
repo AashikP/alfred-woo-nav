@@ -1,0 +1,577 @@
+id,name,path
+1,WooCommerce Home,WooCommerce &gt; Home
+2,Order List,WooCommerce &gt; Orders
+3,New Manual Order,WooCommerce &gt; Orders &gt; Button - Add Order (Top Left)
+4,Order Details Page,WooCommerce &gt; Orders &gt; Click Order #
+5,Order Notes,WooCommerce &gt; Orders &gt; Click Order # &gt; Find - Order Notes (Right side)
+6,Coupons,WooCommerce &gt; Marketing &gt; Coupons
+7,Marketing - Overview,WooCommerce &gt; Marketing &gt; Overview
+8,Add Coupon,WooCommerce &gt; Marketing &gt; Coupons &gt; Button - Add Coupon (Top Left)
+9,Customer List,WooCommerce &gt; Customers
+10,Reports,WooCommerce &gt; Analytics &gt; Reports
+11,Order Reports,WooCommerce &gt; Analytics &gt; Reports &gt; Orders
+12,Customer Reports,WooCommerce &gt; Analytics &gt; Reports &gt; Customers
+13,Stock Reports,WooCommerce &gt; Analytics &gt; Reports &gt; Stock
+14,Tax Reports,WooCommerce &gt; Analytics &gt; Reports &gt; Taxes
+15,General Settings,WooCommerce &gt; Settings &gt; General
+16,Store Address,WooCommerce &gt; Settings &gt; General &gt; Store Address
+17,Selling location(s),WooCommerce &gt; Settings &gt; General &gt; General options &gt; Selling location(s)
+18,Sell to all countries,WooCommerce &gt; Settings &gt; General &gt; General options &gt; Selling location(s) &gt; Select - Sell to all countries
+19,"Sell to all countries, except for..","WooCommerce &gt; Settings &gt; General &gt; General options &gt; Selling location(s) &gt; Select - Sell to all countries, except for.."
+20,Sell to Specific Countries,WooCommerce &gt; Settings &gt; General &gt; General options &gt; Selling location(s) &gt; Select - Sell to Specific Countries
+21,Shipping location(s),WooCommerce &gt; Settings &gt; General &gt; General options &gt; Shipping location(s)
+22,Ship to all countries you sell to,WooCommerce &gt; Settings &gt; General &gt; General options &gt; Shipping location(s) &gt; Select - Ship to all countries you sell to
+23,Ship to all countries,WooCommerce &gt; Settings &gt; General &gt; General options &gt; Shipping location(s) &gt; Select - Ship to all countries
+24,Disable shipping and shipping Calculations,WooCommerce &gt; Settings &gt; General &gt; General options &gt; Shipping location(s) &gt; Select - Disable shipping and shipping Calculations
+25,Default customer location,WooCommerce &gt; Settings &gt; General &gt; General options &gt; Default customer location
+26,Default customer location - Shop base address,WooCommerce &gt; Settings &gt; General &gt; General options &gt; Default customer location &gt; Shop base address
+27,Default customer location - No location by default,WooCommerce &gt; Settings &gt; General &gt; General options &gt; Default customer location &gt; No location by default
+28,Default customer location - Geolocate,WooCommerce &gt; Settings &gt; General &gt; General options &gt; Default customer location &gt; Geolocate
+29,Cust. Location - Geolocate (with page caching support),WooCommerce &gt; Settings &gt; General &gt; General options &gt; Default customer location &gt; Geolocate (with page caching support)
+30,Enable taxes,WooCommerce &gt; Settings &gt; Check - Enable tax rates and calculations
+31,Disable taxes,WooCommerce &gt; Settings &gt; Uncheck - Enable tax rates and calculations
+32,Enable coupons,WooCommerce &gt; Settings &gt; Check - Enable the use of coupon codes
+33,Disable coupons,WooCommerce &gt; Settings &gt; Uncheck - Enable the use of coupon codes
+34,Calculate coupon discounts sequentially,WooCommerce &gt; Settings &gt; Check - Calculate coupon discounts sequentially
+35,Don&apos;t Calculate coupon discounts sequentially,WooCommerce &gt; Settings &gt; Uncheck - Calculate coupon discounts sequentially
+36,Currency options,WooCommerce &gt; Settings &gt; Currency options
+37,Select Currency,WooCommerce &gt; Settings &gt; Currency options &gt; Select - Currency
+38,Currency position,WooCommerce &gt; Settings &gt; Currency options &gt; Currency position
+39,Currency position - Left,WooCommerce &gt; Settings &gt; Currency options &gt; Select - Currency position - Left
+40,Currency position - Right,WooCommerce &gt; Settings &gt; Currency options &gt; Select - Currency position - Right
+41,Currency position - Left with space,WooCommerce &gt; Settings &gt; Currency options &gt; Select - Currency position - Left with space
+42,Currency position - Right with space,WooCommerce &gt; Settings &gt; Currency options &gt; Select - Currency position - Right with space
+43,Currency - Thousand separator,WooCommerce &gt; Settings &gt; Currency options &gt; Thousand separator &gt; Define - Delimiter
+44,Currency - Decimal separator,WooCommerce &gt; Settings &gt; Currency options &gt; Decimal separator &gt; Define - Delimiter
+45,Currency - Number of decimals,WooCommerce &gt; Settings &gt; Currency options &gt; Number of decimals &gt; Enter #
+46,Products,WooCommerce &gt; Settings &gt; Products
+47,Products - General,WooCommerce &gt; Settings &gt; Products &gt; General
+48,Shop pages - Shop page,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Shop pages &gt; Select - Shop page
+49,Add to cart behaviour - Redirect to cart,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Shop pages &gt; Add to cart behaviour &gt; Check - Redirect to the cart page after successful addition
+50,Add to cart behaviour - Don&apos;t Redirect to cart,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Shop pages &gt; Add to cart behaviour &gt; Uncheck - Redirect to the cart page after successful addition
+51,Disable AJAX add to cart buttons on archives,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Shop pages &gt; Add to cart behaviour &gt; Uncheck - Enable AJAX add to cart buttons on archives
+52,Enable AJAX add to cart buttons on archives,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Shop pages &gt; Add to cart behaviour &gt; Check - Enable AJAX add to cart buttons on archives
+53,Shop pages - Placeholder image,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Shop pages &gt; Placeholder image &gt; Define - attachment id for the placeholder image
+54,Measurements - Weight unit,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Measurements &gt; Select - Weight unit
+55,Measurements - Dimensions unit,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Measurements &gt; Select - Dimension unit
+56,Reviews,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Reviews
+57,Reviews - Enable product reviews,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Reviews &gt; Check - Enable product reviews
+58,Hide &quot;verified owner&quot; label on customer reviews,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Reviews &gt; Enable Reviews &gt; Uncheck - Show &quot;verified owner&quot; label on customer reviews
+59,Show &quot;verified owner&quot; label on customer reviews,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Reviews &gt; Enable Reviews &gt; Check - Show &quot;verified owner&quot; label on customer reviews
+60,Reviews - Reviews can be left by anyone,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Reviews &gt; Enable Reviews &gt; Uncheck - Reviews can only be left by &quot;verified owners&quot;
+61,Reviews - Reviews can only be left by &quot;verified owners&quot;,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Reviews &gt; Enable Reviews &gt; Check - Reviews can only be left by &quot;verified owners&quot;
+62,Reviews - Product ratings,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Reviews &gt; Product ratings
+63,Product ratings - Enable star rating on reviews,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Reviews &gt; Product ratings &gt; Check - Enable star rating on reviews
+64,Product ratings - Disable star rating on reviews,WooCommerce &gt; Settings &gt; Products &gt; General &gt; Reviews &gt; Product ratings &gt; Uncheck - Enable star rating on reviews
+65,"Star ratings should be required, not optional","WooCommerce &gt; Settings &gt; Products &gt; General &gt; Reviews &gt; Product ratings &gt; Check - Star ratings should be required, not optional"
+66,Product ratings - Star ratings should be optional,"WooCommerce &gt; Settings &gt; Products &gt; General &gt; Reviews &gt; Product ratings &gt; Uncheck - Star ratings should be required, not optional"
+67,Inventory Settings,WooCommerce &gt; Settings &gt; Products &gt; Inventory
+68,Manage stock,WooCommerce &gt; Settings &gt; Products &gt; Inventory &gt; Manage stock &gt; Check - Enable stock management
+69,Disable Stock Management,WooCommerce &gt; Settings &gt; Products &gt; Inventory &gt; Manage stock &gt; Uncheck - Enable stock management
+70,Hold stock (minutes),WooCommerce &gt; Settings &gt; Products &gt; Inventory &gt; Hold stock (minutes) &gt; Define - Hold Stock in minutes
+71,Inverntory Notification - Enable low stock notifications,WooCommerce &gt; Settings &gt; Products &gt; Inventory &gt; Notifications &gt; Check - Enable low stock notifications
+72,Inverntory Notification - Disable low stock notifications,WooCommerce &gt; Settings &gt; Products &gt; Inventory &gt; Notifications &gt; Uncheck - Enable low stock notifications
+73,Inverntory Notification - Enable out of stock notifications,WooCommerce &gt; Settings &gt; Products &gt; Inventory &gt; Notifications &gt; Check - Enable out of stock notifications
+74,Inverntory Notification - Disable out of stock notifications,WooCommerce &gt; Settings &gt; Products &gt; Inventory &gt; Notifications &gt; Uncheck - Enable out of stock notifications
+75,Inverntory Notification recipient(s),WooCommerce &gt; Settings &gt; Products &gt; Inventory &gt; Notification recipient(s) &gt; Define - Recipient email address (CSV)
+76,Inverntory Notification - Low stock threshold,WooCommerce &gt; Settings &gt; Products &gt; Inventory &gt; Low stock threshold &gt; Define - threshold # at which point you need to be notified
+77,Inverntory Notification - Out of stock threshold,WooCommerce &gt; Settings &gt; Products &gt; Inventory &gt; Out of stock threshold &gt; Define - threshold # at which point you need to be notified
+78,Out of stock visibility,WooCommerce &gt; Settings &gt; Products &gt; Inventory &gt; Out of stock visibility &gt; Hide out of stock items from the catalog
+79,Always show quantity remaining in stock,WooCommerce &gt; Settings &gt; Products &gt; Inventory &gt; Stock display format &gt; Select - Always show quantity remaining in stock e.g. &quot;12 in stock&quot;
+80,Only show quantity remaining in stock,WooCommerce &gt; Settings &gt; Products &gt; Inventory &gt; Stock display format &gt; Select - Only show quantity remaining in stock when low e.g. &quot;Only 2 left in stock&quot;
+81,Never show quantity remaining in stock,WooCommerce &gt; Settings &gt; Products &gt; Inventory &gt; Stock display format &gt; Select - Never show quantity remaining in stock
+82,Downloadable products,WooCommerce &gt; Settings &gt; Products &gt; Downloadable products
+83,File download method - Force downloads,WooCommerce &gt; Settings &gt; Products &gt; Downloadable products &gt; File download method &gt; Force downloads
+84,File download method - X-Accel-Redirect/X-Sendfile,WooCommerce &gt; Settings &gt; Products &gt; Downloadable products &gt; File download method &gt; X-Accel-Redirect/X-Sendfile
+85,File download method - Redirect only (Insecure),WooCommerce &gt; Settings &gt; Products &gt; Downloadable products &gt; File download method &gt; Redirect only (Insecure)
+86,Access restriction - Downloads require login,WooCommerce &gt; Settings &gt; Products &gt; Downloadable products &gt; Access restriction &gt; Check - Downloads require login
+87,Access restriction - Downloads don&apos;t require login,WooCommerce &gt; Settings &gt; Products &gt; Downloadable products &gt; Access restriction &gt; Uncheck - Downloads require login
+88,Grant access to downloadable products after payment,WooCommerce &gt; Settings &gt; Products &gt; Downloadable products &gt; Access restriction &gt; Check - Grant access to downloadable products after payment
+89,Access downloadable products after status Completed,WooCommerce &gt; Settings &gt; Products &gt; Downloadable products &gt; Access restriction &gt; Uncheck - Grant access to downloadable products after payment
+90,Filename - Append Strings,WooCommerce &gt; Settings &gt; Products &gt; Downloadable products &gt; Filename &gt; Check - Append a unique string to filename for security
+91,Filename - Don&apos;t Append Strings,WooCommerce &gt; Settings &gt; Products &gt; Downloadable products &gt; Filename &gt; Uncheck - Append a unique string to filename for security
+92,Tax,WooCommerce &gt; Settings &gt; Tax
+93,Tax options - prices inclusive of tax,"WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Select - Yes, I will enter prices inclusive of tax"
+94,Tax options - prices exclusive of tax,"WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Select - No, I will enter prices exclusive of tax"
+95,Calculate tax based on - Customer shipping address,WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Calculate tax based on &gt; Select - Customer shipping address
+96,Calculate tax based on - Customer billing address,WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Calculate tax based on &gt; Select - Customer billing address
+97,Calculate tax based on - Shop base address,WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Calculate tax based on &gt; Select - Shop base address
+98,Tax Rounding - Tax at subtotal level,"WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Tax Rounding &gt; Check - Round tax at subtotal level, instead of rounding per line"
+99,Tax Rounding - Tax rounding per line,"WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Tax Rounding &gt; Uncheck - Round tax at subtotal level, instead of rounding per line"
+100,Additional tax classes,"WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Additional tax classes &gt; List - Additional Tax classes you need, in addition to Standard Rates"
+101,Display prices in the shop - Excluding Tax,WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Display prices in the shop &gt; Select - Excluding Tax
+102,Display prices in the shop - Including Tax,WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Display prices in the shop &gt; Select - Including Tax
+103,Display prices during cart and checkout - Excluding Tax,WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Display prices during cart and checkout &gt; Select - Excluding Tax
+104,Display prices during cart and checkout - Including Tax,WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Display prices during cart and checkout &gt; Select - Including Tax
+105,Price display suffix,WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Price display suffix &gt; Define - Text to show after product prices
+106,Display tax totals - Itemized,WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Display tax totals &gt; Itemized
+107,Display tax totals - As a single total,WooCommerce &gt; Settings &gt; Tax &gt; Tax options &gt; Display tax totals &gt; As a single total
+108,Standard rates,WooCommerce &gt; Settings &gt; Tax &gt; Standard rates
+109,Reduced rate rates,WooCommerce &gt; Settings &gt; Tax &gt; Reduced rate rates
+110,Zero rate rates,WooCommerce &gt; Settings &gt; Tax &gt; Zero rate rates
+111,Payment methods,WooCommerce &gt; Settings &gt; Payments
+112,Direct bank transfer,WooCommerce &gt; Settings &gt; Payments &gt; Direct bank transfer
+113,Direct bank transfer - Enable,WooCommerce &gt; Settings &gt; Payments &gt; Direct bank transfer &gt; Check - Enable bank transfer
+114,Direct bank transfer - Disable,WooCommerce &gt; Settings &gt; Payments &gt; Direct bank transfer &gt; Uncheck - Enable bank transfer
+115,Direct bank transfer - Title,WooCommerce &gt; Settings &gt; Payments &gt; Direct bank transfer &gt; Define - Title
+116,Direct bank transfer - Description,WooCommerce &gt; Settings &gt; Payments &gt; Direct bank transfer &gt; Define - Description
+117,Direct bank transfer - Instructions,WooCommerce &gt; Settings &gt; Payments &gt; Direct bank transfer &gt; Define - Instructions
+118,Direct bank transfer - Account details,WooCommerce &gt; Settings &gt; Payments &gt; Direct bank transfer &gt; Define - Account details
+119,Check payments,WooCommerce &gt; Settings &gt; Payments &gt; Check payments
+120,Check payments - Enable,WooCommerce &gt; Settings &gt; Payments &gt; Check payments &gt; Check - Enable Check payments
+121,Check payments - Disable,WooCommerce &gt; Settings &gt; Payments &gt; Check payments &gt; Uncheck - Enable Check payments
+122,Check payments - Title,WooCommerce &gt; Settings &gt; Payments &gt; Check payments &gt; Define - Title
+123,Check payments - Description,WooCommerce &gt; Settings &gt; Payments &gt; Check payments &gt; Define - Description
+124,Check payments - Instructions,WooCommerce &gt; Settings &gt; Payments &gt; Check payments &gt; Define - Instructions
+125,Cash on delivery,WooCommerce &gt; Settings &gt; Payments &gt; Cash on delivery
+126,Cash on delivery - Enable,WooCommerce &gt; Settings &gt; Payments &gt; Cash on delivery &gt; Check - Enable Cash on delivery
+127,Cash on delivery - Disable,WooCommerce &gt; Settings &gt; Payments &gt; Cash on delivery &gt; Uncheck - Enable Cash on delivery
+128,Cash on delivery - Title,WooCommerce &gt; Settings &gt; Payments &gt; Cash on delivery &gt; Define - Title
+129,Cash on delivery - Description,WooCommerce &gt; Settings &gt; Payments &gt; Cash on delivery &gt; Define - Description
+130,Cash on delivery - Instructions,WooCommerce &gt; Settings &gt; Payments &gt; Cash on delivery &gt; Define - Instructions
+131,Cash on delivery - Accept for virtual orders,WooCommerce &gt; Settings &gt; Payments &gt; Cash on delivery &gt; Accept for virtual orders &gt; Check - Accept COD if the order is virtual
+132,Cash on delivery - Don&apos;t enable for virtual orders,WooCommerce &gt; Settings &gt; Payments &gt; Cash on delivery &gt; Accept for virtual orders &gt; Uncheck - Accept COD if the order is virtual
+133,Cash on delivery - Enable for shipping methods,WooCommerce &gt; Settings &gt; Payments &gt; Cash on delivery &gt; Enable for shipping methods &gt; Select - All defined shipping methods where COD is valid
+134,PayPal Standard,WooCommerce &gt; Settings &gt; Payments &gt; PayPal
+135,PayPal Standard - Enable,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Check - Enable PayPal
+136,PayPal Standard - Disable,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Uncheck - Enable PayPal
+137,PayPal Standard - Title,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Define - Title
+138,PayPal Standard - Description,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Define - Description
+139,PayPal Standard - PayPal Email,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; PayPal email &gt; Define - Email address to receive payment
+140,PayPal Standard - Enable PayPal sandbox,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; PayPal sandbox &gt; Check - Enable PayPal sandbox
+141,PayPal Standard - Enable PayPal live,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; PayPal sandbox &gt; Uncheck - Enable PayPal sandbox
+142,PayPal Standard - Debug log,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Debug log &gt; Check - Enable logging
+143,PayPal Standard - Disable Debug log,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Debug log &gt; Uncheck - Enable logging
+144,PayPal Standard - IPN Email Notifications,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Check - Enable IPN Email Notifications
+145,PayPal Standard - Disable IPN Email Notifications,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Uncheck - Enable IPN Email Notifications
+146,PayPal Standard - Receiver email,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Receiver email &gt; Define - Email address on PayPal Account
+147,PayPal Standard - PayPal identity token,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; PayPal identity token &gt; Define - PayPal Identity token from PayPal account for Payment Data Transfer (PDT)
+148,PayPal Standard - Invoice prefix,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Invoice prefix &gt; Define - Invoice prefix for PayPal invoice numbers
+149,PayPal Standard - Shipping details,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Shipping details &gt; Check - Send shipping details to PayPal instead of billing
+150,PayPal Standard - Disable Shipping details,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Shipping details &gt; Uncheck - Send shipping details to PayPal instead of billing
+151,PayPal Standard - Address override,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Address override &gt; Check - Enable &quot;address_override&quot; to prevent address information from being changed
+152,PayPal Standard - Disable Address override,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Address override &gt; Uncheck - Enable &quot;address_override&quot; to prevent address information from being changed
+153,PayPal Standard - Payment action Capture,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Payment action &gt; Select - Capture
+154,PayPal Standard - Payment action Authorize,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Payment action &gt; Select - Authorize
+155,PayPal Standard - Page style,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Page style &gt; Define - Page Style defined in PayPal account
+156,PayPal Standard - Image url,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; Image url &gt; Define image URL (150*150) to be displayed in PayPal Checkout pages
+157,PayPal Standard - Live API username,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; API credentials &gt; Define - Live API username
+158,PayPal Standard - Live API password,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; API credentials &gt; Define - Live API password
+159,PayPal Standard - Live API signature,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; API credentials &gt; Define - Live API signature
+160,PayPal Standard - Sandbox API username,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; API credentials &gt; Define - Sandbox API username
+161,PayPal Standard - Sandbox API password,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; API credentials &gt; Define - Sandbox API password
+162,PayPal Standard - Sandbox API signature,WooCommerce &gt; Settings &gt; Payments &gt; PayPal &gt; API credentials &gt; Define - Sandbox API signature
+163,Shipping,WooCommerce &gt; Settings &gt; Shipping
+164,Shipping zones,WooCommerce &gt; Settings &gt; Shipping &gt; Shipping zones
+165,Add Shipping zone,WooCommerce &gt; Settings &gt; Shipping &gt; Shipping zones &gt; Add shipping zone
+166,Enable the shipping calculator on the cart page,WooCommerce &gt; Settings &gt; Shipping &gt; Shipping Options &gt; Calculations &gt; Check - Enable the shipping calculator on the cart page
+167,Disable the shipping calculator on the cart page,WooCommerce &gt; Settings &gt; Shipping &gt; Shipping Options &gt; Calculations &gt; Uncheck - Enable the shipping calculator on the cart page
+168,Hide shipping costs until an address is entered,WooCommerce &gt; Settings &gt; Shipping &gt; Shipping Options &gt; Calculations &gt; Check - Hide shipping costs until an address is entered
+169,Show shipping costs before an address is entered,WooCommerce &gt; Settings &gt; Shipping &gt; Shipping Options &gt; Calculations &gt; Uncheck - Hide shipping costs until an address is entered
+170,Default to customer shipping address,WooCommerce &gt; Settings &gt; Shipping &gt; Shipping Options &gt; Shipping destination &gt; Select - Default to customer shipping address
+171,Default to customer billing address,WooCommerce &gt; Settings &gt; Shipping &gt; Shipping Options &gt; Shipping destination &gt; Select - Default to customer billing address
+172,Force shipping to the customer billing address,WooCommerce &gt; Settings &gt; Shipping &gt; Shipping Options &gt; Shipping destination &gt; Select - Force shipping to the customer billing address
+173,Shipping - Enable Logging,WooCommerce &gt; Settings &gt; Shipping &gt; Shipping Options &gt; Debug mode &gt; Check - Enable debug mode
+174,Shipping - Disable Logging,WooCommerce &gt; Settings &gt; Shipping &gt; Shipping Options &gt; Debug mode &gt; Uncheck - Enable debug mode
+175,Shipping classes,WooCommerce &gt; Settings &gt; Shipping &gt; Shipping classes
+176,Add Shipping class,WooCommerce &gt; Settings &gt; Shipping &gt; Shipping classes &gt; Add Shipping class
+177,Accounts &amp; Privacy,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy
+178,Allow customers to place orders without an account,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Guest checkout &gt; Check - Allow customers to place orders without an account
+179,Don&apos;t allow customers place orders without an account,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Guest checkout &gt; Uncheck - Allow customers to place orders without an account
+180,Checkout Page - Allow customers log in,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Guest checkout &gt; Check - Allow customers to log into an existing account during checkout
+181,Guest Checkout - Prevent log-in from checkout page,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Guest checkout &gt; Uncheck - Allow customers to log into an existing account during checkout
+182,Allow customers to create an account during checkout,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Account creation &gt; Check - Allow customers to create an account during checkout
+183,Don&apos;t allow customers create account during checkout,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Account creation &gt; Uncheck - Allow customers to create an account during checkout
+184,My account page - Allow customers create account,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Account creation &gt; Check - Allow customers to create an account on the &quot;My account&quot; page
+185,My account page - Don&apos;t allow customer create account,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Account creation &gt; Uncheck - Allow customers to create an account on the &quot;My account&quot; page
+186,Generate an account username for the customer,"WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Account creation &gt; Check - When creating an account, automatically generate an account username for the customer based on their name, surname or email"
+187,Don&apos;t Generate an account username for the customer,"WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Account creation &gt; Uncheck - When creating an account, automatically generate an account username for the customer based on their name, surname or email"
+188,Automatically generate account password,"WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Account creation &gt; Check - When creating an account, automatically generate an account password"
+189,Don&apos;t Automatically generate account password,"WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Account creation &gt; Uncheck - When creating an account, automatically generate an account password"
+190,Remove personal data from orders on request,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Account erasure requests &gt; Check - Remove personal data from orders on request
+191,Disable Removal of personal data from orders,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Account erasure requests &gt; Uncheck - Remove personal data from orders on request
+192,Remove access to downloads on request,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Account erasure requests &gt; Check - Remove access to downloads on request
+193,Don&apos;t Remove access to downloads on request,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Account erasure requests &gt; Uncheck - Remove access to downloads on request
+194,Allow personal data to be removed in bulk from orders,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Personal data removal &gt; Check - Allow personal data to be removed in bulk from orders
+195,Don&apos;t Allow personal data removed in bulk from orders,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Personal data removal &gt; Uncheck - Allow personal data to be removed in bulk from orders
+196,Privacy policy - Privacy page,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Privacy policy &gt; Select - Privacy page
+197,Privacy policy - Registration privacy policy,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Privacy policy &gt; Registration privacy policy &gt; Define - Policy to be shown on account registration forms
+198,Privacy policy - Checkout privacy policy,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Privacy policy &gt; Checkout privacy policy &gt; Define - Policy to be shown on checkout page
+199,Personal data retention - Retain inactive accounts,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Privacy policy &gt; Personal data retention &gt; Retain inactive accounts &gt; Define - time limit
+200,Personal data retention - Retain pending orders,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Privacy policy &gt; Personal data retention &gt; Retain pending orders &gt; Define - time limit
+201,Personal data retention - Retain failed orders,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Privacy policy &gt; Personal data retention &gt; Retain failed orders &gt; Define - time limit
+202,Personal data retention - Retain cancelled orders,WooCommerce &gt; Settings &gt; Accounts &amp; Privacy &gt; Privacy policy &gt; Personal data retention &gt; Retain cancelled orders &gt; Define - time limit
+203,Email notifications,WooCommerce &gt; Settings &gt; Emails
+204,New Order Email,WooCommerce &gt; Settings &gt; Emails &gt; New Order
+205,New Order - Enable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; New Order &gt; Check - Enable this email notification
+206,New Order - Disable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; New Order &gt; Uncheck - Enable this email notification
+207,New Order - Recipient(s),WooCommerce &gt; Settings &gt; Emails &gt; New Order &gt; Recipient(s) &gt; Define - Email addresses that need to be notified (CSV)
+208,New Order - Subject,WooCommerce &gt; Settings &gt; Emails &gt; New Order &gt; Subject &gt; Define - Subject of Email notification
+209,New Order - Email heading,WooCommerce &gt; Settings &gt; Emails &gt; New Order &gt; Email heading &gt; Define - Email heading
+210,New Order - Additional content,WooCommerce &gt; Settings &gt; Emails &gt; New Order &gt; Additional content &gt; Define - Text to enter below main email content
+211,New Order - Email type - HTML,WooCommerce &gt; Settings &gt; Emails &gt; New Order &gt; Email type &gt; Select - Email type HTML
+212,New Order - Email type - Plain text,WooCommerce &gt; Settings &gt; Emails &gt; New Order &gt; Email type &gt; Select - Email type Plain text
+213,New Order - View Template,WooCommerce &gt; Settings &gt; Emails &gt; New Order &gt; HTML template &gt; Click - View Template
+214,New Order - Custom Template,WooCommerce &gt; Settings &gt; Emails &gt; New Order &gt; HTML template &gt; Click - Copy file to theme &gt; Edit the template on-screen
+215,Cancelled Order Email,WooCommerce &gt; Settings &gt; Emails &gt; Cancelled Order
+216,Cancelled Order - Enable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Cancelled Order &gt; Check - Enable this email notification
+217,Cancelled Order - Disable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Cancelled Order &gt; Uncheck - Enable this email notification
+218,Cancelled Order - Recipient(s),WooCommerce &gt; Settings &gt; Emails &gt; Cancelled Order &gt; Recipient(s) &gt; Define - Email addresses that need to be notified (CSV)
+219,Cancelled Order - Subject,WooCommerce &gt; Settings &gt; Emails &gt; Cancelled Order &gt; Subject &gt; Define - Subject of Email notification
+220,Cancelled Order - Email heading,WooCommerce &gt; Settings &gt; Emails &gt; Cancelled Order &gt; Email heading &gt; Define - Email heading
+221,Cancelled Order - Additional content,WooCommerce &gt; Settings &gt; Emails &gt; Cancelled Order &gt; Additional content &gt; Define - Text to enter below main email content
+222,Cancelled Order - Email type - HTML,WooCommerce &gt; Settings &gt; Emails &gt; Cancelled Order &gt; Email type &gt; Select - Email type HTML
+223,Cancelled Order - Email type - Plain text,WooCommerce &gt; Settings &gt; Emails &gt; Cancelled Order &gt; Email type &gt; Select - Email type Plain text
+224,Cancelled Order - View Template,WooCommerce &gt; Settings &gt; Emails &gt; Cancelled Order &gt; HTML template &gt; Click - View Template
+225,Cancelled Order - Custom Template,WooCommerce &gt; Settings &gt; Emails &gt; Cancelled Order &gt; HTML template &gt; Click - Copy file to theme &gt; Edit the template on-screen
+226,Failed Order Email,WooCommerce &gt; Settings &gt; Emails &gt; Failed Order
+227,Failed Order - Enable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Failed Order &gt; Check - Enable this email notification
+228,Failed Order - Disable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Failed Order &gt; Uncheck - Enable this email notification
+229,Failed Order - Recipient(s),WooCommerce &gt; Settings &gt; Emails &gt; Failed Order &gt; Recipient(s) &gt; Define - Email addresses that need to be notified (CSV)
+230,Failed Order - Subject,WooCommerce &gt; Settings &gt; Emails &gt; Failed Order &gt; Subject &gt; Define - Subject of Email notification
+231,Failed Order - Email heading,WooCommerce &gt; Settings &gt; Emails &gt; Failed Order &gt; Email heading &gt; Define - Email heading
+232,Failed Order - Additional content,WooCommerce &gt; Settings &gt; Emails &gt; Failed Order &gt; Additional content &gt; Define - Text to enter below main email content
+233,Failed Order - Email type - HTML,WooCommerce &gt; Settings &gt; Emails &gt; Failed Order &gt; Email type &gt; Select - Email type HTML
+234,Failed Order - Email type - Plain text,WooCommerce &gt; Settings &gt; Emails &gt; Failed Order &gt; Email type &gt; Select - Email type Plain text
+235,Failed Order - View Template,WooCommerce &gt; Settings &gt; Emails &gt; Failed Order &gt; HTML template &gt; Click - View Template
+236,Failed Order - Custom Template,WooCommerce &gt; Settings &gt; Emails &gt; Failed Order &gt; HTML template &gt; Click - Copy file to theme &gt; Edit the template on-screen
+237,Order on-hold Email,WooCommerce &gt; Settings &gt; Emails &gt; Order on-hold
+238,Order on-hold - Enable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Order on-hold &gt; Check - Enable this email notification
+239,Order on-hold - Disable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Order on-hold &gt; Uncheck - Enable this email notification
+240,Order on-hold - Subject,WooCommerce &gt; Settings &gt; Emails &gt; Order on-hold &gt; Subject &gt; Define - Subject of Email notification
+241,Order on-hold - Email heading,WooCommerce &gt; Settings &gt; Emails &gt; Order on-hold &gt; Email heading &gt; Define - Email heading
+242,Order on-hold - Additional content,WooCommerce &gt; Settings &gt; Emails &gt; Order on-hold &gt; Additional content &gt; Define - Text to enter below main email content
+243,Order on-hold - Email type - HTML,WooCommerce &gt; Settings &gt; Emails &gt; Order on-hold &gt; Email type &gt; Select - Email type HTML
+244,Order on-hold - Email type - Plain text,WooCommerce &gt; Settings &gt; Emails &gt; Order on-hold &gt; Email type &gt; Select - Email type Plain text
+245,Order on-hold - View Template,WooCommerce &gt; Settings &gt; Emails &gt; Order on-hold &gt; HTML template &gt; Click - View Template
+246,Order on-hold - Custom Template,WooCommerce &gt; Settings &gt; Emails &gt; Order on-hold &gt; HTML template &gt; Click - Copy file to theme &gt; Edit the template on-screen
+247,Processing order Email,WooCommerce &gt; Settings &gt; Emails &gt; Processing order
+248,Processing order - Enable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Processing order &gt; Check - Enable this email notification
+249,Processing order - Disable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Processing order &gt; Uncheck - Enable this email notification
+250,Processing order - Subject,WooCommerce &gt; Settings &gt; Emails &gt; Processing order &gt; Subject &gt; Define - Subject of Email notification
+251,Processing order - Email heading,WooCommerce &gt; Settings &gt; Emails &gt; Processing order &gt; Email heading &gt; Define - Email heading
+252,Processing order - Additional content,WooCommerce &gt; Settings &gt; Emails &gt; Processing order &gt; Additional content &gt; Define - Text to enter below main email content
+253,Processing order - Email type - HTML,WooCommerce &gt; Settings &gt; Emails &gt; Processing order &gt; Email type &gt; Select - Email type HTML
+254,Processing order - Email type - Plain text,WooCommerce &gt; Settings &gt; Emails &gt; Processing order &gt; Email type &gt; Select - Email type Plain text
+255,Processing order - View Template,WooCommerce &gt; Settings &gt; Emails &gt; Processing order &gt; HTML template &gt; Click - View Template
+256,Processing order - Custom Template,WooCommerce &gt; Settings &gt; Emails &gt; Processing order &gt; HTML template &gt; Click - Copy file to theme &gt; Edit the template on-screen
+257,Completed order Email,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details
+258,Completed order - Enable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Check - Enable this email notification
+259,Completed order - Disable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Uncheck - Enable this email notification
+260,Completed order - Subject,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Subject &gt; Define - Subject of Email notification
+261,Completed order - Email heading,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Email heading &gt; Define - Email heading
+262,Completed order - Additional content,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Additional content &gt; Define - Text to enter below main email content
+263,Completed order - Email type - HTML,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Email type &gt; Select - Email type HTML
+264,Completed order - Email type - Plain text,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Email type &gt; Select - Email type Plain text
+265,Completed order - View Template,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; HTML template &gt; Click - View Template
+266,Completed order - Custom Template,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; HTML template &gt; Click - Copy file to theme &gt; Edit the template on-screen
+267,Refunded order Email,WooCommerce &gt; Settings &gt; Emails &gt; Refunded order
+268,Refunded order - Enable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Refunded order &gt; Check - Enable this email notification
+269,Refunded order - Disable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Refunded order &gt; Uncheck - Enable this email notification
+270,Refunded order - Full refund subject,WooCommerce &gt; Settings &gt; Emails &gt; Refunded order &gt; Full refund subject &gt; Define - Full refund subject
+271,Refunded order - Partial refund subject,WooCommerce &gt; Settings &gt; Emails &gt; Refunded order &gt; Partial refund subject &gt; Define - Partial refund subject
+272,Refunded order - Full refund email heading,WooCommerce &gt; Settings &gt; Emails &gt; Refunded order &gt; Full refund email heading &gt; Define - Full refund email heading
+273,Refunded order - Partial refund email heading,WooCommerce &gt; Settings &gt; Emails &gt; Refunded order &gt; Partial refund email heading &gt; Define - Partial refund email heading
+274,Refunded order - Additional content,WooCommerce &gt; Settings &gt; Emails &gt; Refunded order &gt; Additional content &gt; Define - Text to enter below main email content
+275,Refunded order - Email type - HTML,WooCommerce &gt; Settings &gt; Emails &gt; Refunded order &gt; Email type &gt; Select - Email type HTML
+276,Refunded order - Email type - Plain text,WooCommerce &gt; Settings &gt; Emails &gt; Refunded order &gt; Email type &gt; Select - Email type Plain text
+277,Refunded order - View Template,WooCommerce &gt; Settings &gt; Emails &gt; Refunded order &gt; HTML template &gt; Click - View Template
+278,Refunded order - Custom Template,WooCommerce &gt; Settings &gt; Emails &gt; Refunded order &gt; HTML template &gt; Click - Copy file to theme &gt; Edit the template on-screen
+279,Invoice / Order details,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details
+280,Invoice / Order details - Enable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Check - Enable this email notification
+281,Invoice / Order details - Disable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Uncheck - Enable this email notification
+282,Invoice / Order details - Subject,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Subject &gt; Define - Subject of Email notification
+283,Invoice / Order details - Subject (paid),WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Subject (paid) &gt; Define - Subject of Email notification for paid orders
+284,Invoice / Order details - Email heading,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Email heading &gt; Define - Email heading
+285,Invoice / Order details - Email heading (paid),WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Email heading (paid) &gt; Define - Email heading for paid orders
+286,Invoice / Order details - Additional content,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Additional content &gt; Define - Text to enter below main email content
+287,Invoice / Order details - Email type - HTML,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Email type &gt; Select - Email type HTML
+288,Invoice / Order details - Email type - Plain text,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; Email type &gt; Select - Email type Plain text
+289,Invoice / Order details - View Template,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; HTML template &gt; Click - View Template
+290,Invoice / Order details - Custom Template,WooCommerce &gt; Settings &gt; Emails &gt; Customer invoice / Order details &gt; HTML template &gt; Click - Copy file to theme &gt; Edit the template on-screen
+291,Customer Note Email,WooCommerce &gt; Settings &gt; Emails &gt; Customer Note
+292,Customer Note - Enable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Customer Note &gt; Check - Enable this email notification
+293,Customer Note - Disable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Customer Note &gt; Uncheck - Enable this email notification
+294,Customer Note - Subject,WooCommerce &gt; Settings &gt; Emails &gt; Customer Note &gt; Subject &gt; Define - Subject of Email notification
+295,Customer Note - Email heading,WooCommerce &gt; Settings &gt; Emails &gt; Customer Note &gt; Email heading &gt; Define - Email heading
+296,Customer Note - Additional content,WooCommerce &gt; Settings &gt; Emails &gt; Customer Note &gt; Additional content &gt; Define - Text to enter below main email content
+297,Customer Note - Email type - HTML,WooCommerce &gt; Settings &gt; Emails &gt; Customer Note &gt; Email type &gt; Select - Email type HTML
+298,Customer Note - Email type - Plain text,WooCommerce &gt; Settings &gt; Emails &gt; Customer Note &gt; Email type &gt; Select - Email type Plain text
+299,Customer Note - View Template,WooCommerce &gt; Settings &gt; Emails &gt; Customer Note &gt; HTML template &gt; Click - View Template
+300,Customer Note - Custom Template,WooCommerce &gt; Settings &gt; Emails &gt; Customer Note &gt; HTML template &gt; Click - Copy file to theme &gt; Edit the template on-screen
+301,Reset password Email,WooCommerce &gt; Settings &gt; Emails &gt; Reset password
+302,Reset password - Enable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Reset password &gt; Check - Enable this email notification
+303,Reset password - Disable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; Reset password &gt; Uncheck - Enable this email notification
+304,Reset password - Subject,WooCommerce &gt; Settings &gt; Emails &gt; Reset password &gt; Subject &gt; Define - Subject of Email notification
+305,Reset password - Email heading,WooCommerce &gt; Settings &gt; Emails &gt; Reset password &gt; Email heading &gt; Define - Email heading
+306,Reset password - Additional content,WooCommerce &gt; Settings &gt; Emails &gt; Reset password &gt; Additional content &gt; Define - Text to enter below main email content
+307,Reset password - Email type - HTML,WooCommerce &gt; Settings &gt; Emails &gt; Reset password &gt; Email type &gt; Select - Email type HTML
+308,Reset password - Email type - Plain text,WooCommerce &gt; Settings &gt; Emails &gt; Reset password &gt; Email type &gt; Select - Email type Plain text
+309,Reset password - View Template,WooCommerce &gt; Settings &gt; Emails &gt; Reset password &gt; HTML template &gt; Click - View Template
+310,Reset password - Custom Template,WooCommerce &gt; Settings &gt; Emails &gt; Reset password &gt; HTML template &gt; Click - Copy file to theme &gt; Edit the template on-screen
+311,New account Email,WooCommerce &gt; Settings &gt; Emails &gt; New account
+312,New account - Enable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; New account &gt; Check - Enable this email notification
+313,New account - Disable this email notification,WooCommerce &gt; Settings &gt; Emails &gt; New account &gt; Uncheck - Enable this email notification
+314,New account - Subject,WooCommerce &gt; Settings &gt; Emails &gt; New account &gt; Subject &gt; Define - Subject of Email notification
+315,New account - Email heading,WooCommerce &gt; Settings &gt; Emails &gt; New account &gt; Email heading &gt; Define - Email heading
+316,New account - Additional content,WooCommerce &gt; Settings &gt; Emails &gt; New account &gt; Additional content &gt; Define - Text to enter below main email content
+317,New account - Email type - HTML,WooCommerce &gt; Settings &gt; Emails &gt; New account &gt; Email type &gt; Select - Email type HTML
+318,New account - Email type - Plain text,WooCommerce &gt; Settings &gt; Emails &gt; New account &gt; Email type &gt; Select - Email type Plain text
+319,New account - View Template,WooCommerce &gt; Settings &gt; Emails &gt; New account &gt; HTML template &gt; Click - View Template
+320,New account - Custom Template,WooCommerce &gt; Settings &gt; Emails &gt; New account &gt; HTML template &gt; Click - Copy file to theme &gt; Edit the template on-screen
+321,Email sender options - From name,WooCommerce &gt; Settings &gt; Emails &gt; Scroll down to find - Email sender options &gt; Define - From name
+322,Email sender options - From Address,WooCommerce &gt; Settings &gt; Emails &gt; Scroll down to find - Email sender options &gt; Define - From address
+323,Email template - Header Image,WooCommerce &gt; Settings &gt; Emails &gt; Scroll down to find - Email Template &gt; Define - Header Image
+324,Email template - Footer Text,WooCommerce &gt; Settings &gt; Emails &gt; Scroll down to find - Email Template &gt; Define - Footer Text
+325,Email template - Base color,WooCommerce &gt; Settings &gt; Emails &gt; Scroll down to find - Email Template &gt; Define - Base color
+326,Email template - Background color,WooCommerce &gt; Settings &gt; Emails &gt; Scroll down to find - Email Template &gt; Define - Background color
+327,Email template - Body background color,WooCommerce &gt; Settings &gt; Emails &gt; Scroll down to find - Email Template &gt; Define - Body background color
+328,Email template - Body text color,WooCommerce &gt; Settings &gt; Emails &gt; Scroll down to find - Email Template &gt; Define - Body text color
+329,Email template - Preview template,WooCommerce &gt; Settings &gt; Emails &gt; Scroll down to find - Email Template &gt; Click link that says - Click here to preview your email template.
+330,MaxMind Geolocation,WooCommerce &gt; Settings &gt; Integration &gt; MaxMind Geolocation &gt; MaxMind License Key - Enter license key
+331,Database File Path,WooCommerce &gt; Settings &gt; Integration &gt; MaxMind Geolocation &gt; Database File Path &gt; Define - Path to save Geolocation database
+332,Page Setup - Cart page,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Cart page &gt; Select - Cart page
+333,Page Setup - Checkout page,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Checkout page &gt; Select - Checkout page
+334,Page Setup - My account page,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; My account page &gt; Select - My account page
+335,Page Setup - Terms and conditions page,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Terms and conditions page &gt; Select - Terms and conditions page
+336,Page Setup - Enable Secure checkout,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Secure checkout &gt; Check - Force secure checkout
+337,Page Setup - Disable Secure checkout,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Secure checkout &gt; Uncheck - Force secure checkout
+338,Checkout endpoints - Pay,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Checkout endpoints &gt; Pay &gt; Define - Endpoint for Checkout-&gt;Pay page
+339,Checkout endpoints - Order received,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Checkout endpoints &gt; Order received &gt; Define - Endpoint for Order confirmation
+340,Checkout endpoints - Add payment method,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Checkout endpoints &gt; Add payment method &gt; Define - Endpoint for Add payment method
+341,Checkout endpoints - Delete payment method,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Checkout endpoints &gt; Delete payment method &gt; Define - Endpoint for Delete payment method
+342,Checkout endpoints - Set default payment method,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Checkout endpoints &gt; Set default payment method &gt; Define - Endpoint for Set default payment method
+343,Account endpoints - Orders,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Account endpoints &gt; Orders &gt; Define - Endpoint for Orders
+344,Account endpoints - View order,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Account endpoints &gt; View order &gt; Define - Endpoint for View order
+345,Account endpoints - Downloads,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Account endpoints &gt; Downloads &gt; Define - Endpoint for Downloads
+346,Account endpoints - Edit account,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Account endpoints &gt; Edit account &gt; Define - Endpoint for Edit account
+347,Account endpoints - Addresses,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Account endpoints &gt; Addresses &gt; Define - Endpoint for Addresses
+348,Account endpoints - Payment methods,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Account endpoints &gt; Payment methods &gt; Define - Endpoint for Payment methods
+349,Account endpoints - Lost password,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Account endpoints &gt; Lost password &gt; Define - Endpoint for Lost password
+350,Account endpoints - Logout,WooCommerce &gt; Settings &gt; Advanced &gt; Page Setup &gt; Account endpoints &gt; Logout &gt; Define - Endpoint for Logout
+351,Advanced - Rest API,WooCommerce &gt; Settings &gt; Advanced &gt; Rest API
+352,Advanced - Rest API - Create an API key,WooCommerce &gt; Settings &gt; Advanced &gt; Rest API &gt; Click - Add Key
+353,Advanced - Webhooks,WooCommerce &gt; Settings &gt; Advanced &gt; Webhooks
+354,Advanced - Webhooks - Add Webhook,WooCommerce &gt; Settings &gt; Advanced &gt; Webhooks &gt; Add Webhook
+355,Advanced - Legacy API,WooCommerce &gt; Settings &gt; Advanced &gt; Legacy API
+356,Advanced - Enable Legacy API,WooCommerce &gt; Settings &gt; Advanced &gt; Legacy API &gt; Check - Enable the legacy REST API
+357,Advanced - Disable Legacy API,WooCommerce &gt; Settings &gt; Advanced &gt; Legacy API &gt; Uncheck - Enable the legacy REST API
+358,Advanced - WooCommerce.com,WooCommerce &gt; Settings &gt; Advanced &gt; WooCommerce.com
+359,WooCommerce.com - Enable Usage Tracking,WooCommerce &gt; Settings &gt; Advanced &gt; WooCommerce.com &gt; Usage Tracking &gt; Check - Allow usage of WooCommerce to be tracked
+360,WooCommerce.com - Disable Usage Tracking,WooCommerce &gt; Settings &gt; Advanced &gt; WooCommerce.com &gt; Usage Tracking &gt; Uncheck - Allow usage of WooCommerce to be tracked
+361,WooCommerce.com - Enable Marketplace suggestions,WooCommerce &gt; Settings &gt; Advanced &gt; WooCommerce.com &gt; Marketplace suggestions &gt; Check - Display suggestions within WooCommerce
+362,WooCommerce.com - Disable Marketplace suggestions,WooCommerce &gt; Settings &gt; Advanced &gt; WooCommerce.com &gt; Marketplace suggestions &gt; Uncheck - Display suggestions within WooCommerce
+363,System Status Report,WooCommerce &gt; Tools &gt; System Status
+364,Copy System Status Report,WooCommerce &gt; Tools &gt; System Status &gt; Click - Get system report
+365,Tools,WooCommerce &gt; Tools &gt; Utility
+366,Tools - WooCommerce transients,WooCommerce &gt; Tools &gt; Utility &gt; WooCommerce transients &gt; Click - Clear Transients (Button on right)
+367,Tools - Expired transients,WooCommerce &gt; Tools &gt; Utility &gt; Expired transients &gt; Click - Clear Transients (Button on right)
+368,Tools - Orphaned variations,WooCommerce &gt; Tools &gt; Utility &gt; Orphaned variations &gt; Click - Delete Orphaned variations (Button on right)
+369,Tools - Used-up download permissions,WooCommerce &gt; Tools &gt; Utility &gt; Used-up download permissions &gt; Click - Clean-up download permissions (Button on right)
+370,Tools - Product lookup tables,WooCommerce &gt; Tools &gt; Utility &gt; Product lookup tables &gt; Click - Regenerate (Button on right)
+371,Tools - Term counts,WooCommerce &gt; Tools &gt; Utility &gt; Term counts &gt; Click - Recount Terms (Button on right)
+372,Tools - Capabilities,WooCommerce &gt; Tools &gt; Utility &gt; Capabilities &gt; Click - Reset Capabilities (Button on right)
+373,Tools - Clear customer sessions,WooCommerce &gt; Tools &gt; Utility &gt; Clear customer sessions &gt; Click - Clear (Button on right)
+374,Tools - Clear Template cache,WooCommerce &gt; Tools &gt; Utility &gt; Clear template cache &gt; Click - Clear (Button on right)
+375,Tools - Create default WooCommerce pages,WooCommerce &gt; Tools &gt; Utility &gt; Create default WooCommerce pages &gt; Click - Create Pages (Button on right)
+376,Tools - Delete WooCommerce tax rates,WooCommerce &gt; Tools &gt; Utility &gt; Delete WooCommerce tax rates &gt; Click - Delete tax rates (Button on right)
+377,Tools - Regenerate shop thumbnails,WooCommerce &gt; Tools &gt; Utility &gt; Regenerate shop thumbnails &gt; Click - Regenerate (Button on right)
+378,Tools - Update database,WooCommerce &gt; Tools &gt; Utility &gt; Update database &gt; Click - Update (Button on right)
+379,Tools - Verify base database tables,WooCommerce &gt; Tools &gt; Utility &gt; Verify base database tables &gt; Click - Verify database (Button on right)
+380,Tools - Clear analytics cache,WooCommerce &gt; Tools &gt; Utility &gt; Clear analytics cache &gt; Click - Clear (Button on right)
+381,Logs,WooCommerce &gt; Tools &gt; Logs
+382,Find Logs,WooCommerce &gt; Tools &gt; Logs &gt; Select - Log under drop-down (right side) &gt; Click - View button
+383,Fatal Error Logs,WooCommerce &gt; Tools &gt; Logs &gt; Select - Latest Fatal Error Log under drop-down (right side) &gt; Click - View button
+384,Scheduled Actions,WooCommerce &gt; Tools &gt; Scheduled Actions
+385,Scheduled Actions - All,WooCommerce &gt; Tools &gt; Scheduled Actions &gt; All
+386,Scheduled Actions - Canceled,WooCommerce &gt; Tools &gt; Scheduled Actions &gt; Canceled
+387,Scheduled Actions - Pending,WooCommerce &gt; Tools &gt; Scheduled Actions &gt; Pending
+388,Scheduled Actions - Complete,WooCommerce &gt; Tools &gt; Scheduled Actions &gt; Complete
+389,Extensions,WooCommerce &gt; Marketplace &gt; Browse Extenisons
+390,WooCommerce.com Subscriptions,WooCommerce &gt; Marketplace &gt; WooCommerce.com Subscriptions
+391,Connect WooCommerce.com Account,WooCommerce &gt; Marketplace &gt; WooCommerce.com Subscriptions &gt; Click - Connect
+392,Disconnect WooCommerce.com Account,WooCommerce &gt; Marketplace &gt; WooCommerce.com Subscriptions &gt; Hover over Connected to WooCommerce.com &gt; Click - Disconnect
+393,Updated WooCommerce.com Connection,WooCommerce &gt; Marketplace &gt; WooCommerce.com Subscriptions &gt; Click - Update (top-left next to Subscriptions)
+394,Activate Extenison,WooCommerce &gt; Marketplace &gt; WooCommerce.com Subscriptions &gt; Find the extension &gt; Click - Toggle button (Active / Inactive)
+395,Products - All Products,WooCommerce &gt; Products &gt; All Products
+396,Products - Add New Product,WooCommerce &gt; Products &gt; Add new
+397,Products - Import,WooCommerce &gt; Products &gt; All Products &gt; Import (Top of the Dashboard)
+398,Products - Export,WooCommerce &gt; Products &gt; All Products &gt; Export (Top of the Dashboard)
+399,Products - Sorting,WooCommerce &gt; Products &gt; All Products &gt; Sorting
+400,Products - Screen Options,WooCommerce &gt; Products &gt; All Products &gt; Click - Screen Options (Top of the Dashboard)
+401,Edit Product,WooCommerce &gt; Products &gt; Hover over the product &gt; Click - Edit (below product name)
+402,Trash Product,WooCommerce &gt; Products &gt; Hover over the product &gt; Click - Trash (below product name)
+403,Duplicate Product,WooCommerce &gt; Products &gt; Hover over the product &gt; Click - Duplicate (below product name)
+404,View Product,WooCommerce &gt; Products &gt; Hover over the product &gt; Click - View (below product name)
+405,Product Edit - Update Product Name,Product Edit Page &gt; Define - Product name &gt; Click - Update (top right)
+406,Product Edit - Update Description,Product Edit Page &gt; Define - Product Description &gt; Click - Update (top right)
+407,Product Edit - Update Short Description,Product Edit Page &gt; Scroll down &gt; Define - Product Short Description &gt; Click - Update (top right)
+408,Product Visibility - Public,Product Edit Page &gt; Publish Section (right sidebar) &gt; Product Visibility &gt; Select - Public
+409,Product Visibility - Password Protected,Product Edit Page &gt; Publish Section (right sidebar) &gt; Product Visibility &gt; Select - Password Protected
+410,Product Visibility - Private,Product Edit Page &gt; Publish Section (right sidebar) &gt; Product Visibility &gt; Select - Private
+411,Catalog Visibility - Shop and search results,Product Edit Page &gt; Publish Section (right sidebar) &gt; Catalog Visibility &gt; Click - Edit &gt; Select - Shop and search results
+412,Catalog Visibility - Shop only,Product Edit Page &gt; Publish Section (right sidebar) &gt; Catalog Visibility &gt; Click - Edit &gt; Select - Shop only
+413,Catalog Visibility - Search results only,Product Edit Page &gt; Publish Section (right sidebar) &gt; Catalog Visibility &gt; Click - Edit &gt; Select - Search results only
+414,Catalog Visibility - Hidden,Product Edit Page &gt; Publish Section (right sidebar) &gt; Catalog Visibility &gt; Click - Edit &gt; Select - Hidden
+415,Catalog Visibility - Featured Product,Product Edit Page &gt; Publish Section (right sidebar) &gt; Catalog Visibility &gt; Click - Edit &gt; Check - Featured Product
+416,Product Edit - Assign Category,Product Edit Page &gt; Category Section (right sidebar) &gt; Check - Category
+417,Product Edit - Add Tags,Product Edit Page &gt; Product Tag Section (right sidebar) &gt; Assign - Tags
+418,Product Edit - Product Image,Product Edit Page &gt; Product Image Section (right sidebar) &gt; Click - Set product image &gt; Assign - Image
+419,Product Edit - Product Gallery,Product Edit Page &gt; Product Gallery Section (right sidebar) &gt; Click - Add product gallery images &gt; Assign - Images
+420,Product data - Simple Product,Product Edit Page &gt; Product data &gt; Select - Simple Product
+421,Product data - Virtual Product,Product Edit Page &gt; Product data &gt; Check - Virtual field
+422,Product data - Downloadable,Product Edit Page &gt; Product data &gt; Check - Downloadable field
+423,Product data - Virtual Downlodable,Product Edit Page &gt; Product data &gt; Check - Both Virtual and Downloadable field
+424,Product data - General - Regular Price,Product Edit Page &gt; Product data &gt; General &gt; Define - Regular Price
+425,Product data - General - Sale Price,Product Edit Page &gt; Product data &gt; General &gt; Define - Sale Price
+426,Product data - General - Tax status - Taxable,Product Edit Page &gt; Product data &gt; General &gt; Tax status &gt; Select - Taxable
+427,Product data - General - Tax status - Shipping Only,Product Edit Page &gt; Product data &gt; General &gt; Tax status &gt; Select - Shipping Only
+428,Product data - General - Tax status - None,Product Edit Page &gt; Product data &gt; General &gt; Tax status &gt; Select - None
+429,Product data - General - Tax class,Product Edit Page &gt; Product data &gt; General &gt; Tax class &gt; Select - Tax class
+430,Product data - Inventory - SKU,Product Edit Page &gt; Product data &gt; Inventory &gt; Define - SKU
+431,Product data - Inventory - Manage stock,Product Edit Page &gt; Product data &gt; Inventory &gt; Manage stock &gt; Check - Enable stock management at product level
+432,Inventory - Stock Status - In Stock,Product Edit Page &gt; Product data &gt; Inventory &gt; Stock Status &gt; Define - In Stock
+433,Inventory - Stock Status - Out of Stock,Product Edit Page &gt; Product data &gt; Inventory &gt; Stock Status &gt; Define - Out of Stock
+434,Inventory - Stock Status - In backorder,Product Edit Page &gt; Product data &gt; Inventory &gt; Stock Status &gt; Define - In backorder
+435,Sold individually,Product Edit Page &gt; Product data &gt; Inventory &gt; Check - Enable this to only allow one of this item to be bought in a single order
+436,Inventory - Stock quantity,Product Edit Page &gt; Product data &gt; Inventory &gt; Stock quantity &gt; Define - Stock quantity
+437,Allow backorders? - Do not allow,Product Edit Page &gt; Product data &gt; Inventory &gt; Allow backorders? &gt; Select - Do not allow
+438,"Allow backorders? - Allow, but notify customers","Product Edit Page &gt; Product data &gt; Inventory &gt; Allow backorders? &gt; Select - Allow, but notify customers"
+439,Allow backorders? - Allow,Product Edit Page &gt; Product data &gt; Inventory &gt; Allow backorders? &gt; Select - Allow
+440,Low stock threshold,Product Edit Page &gt; Product data &gt; Inventory &gt; Low stock threshold &gt; Define - Low stock threshold
+441,Shipping - Weight and Dimensions,Product Edit Page &gt; Product data &gt; Shipping &gt; Define - Weight and dimensions here
+442,Product Shipping Class,Product Edit Page &gt; Product data &gt; Shipping &gt; Select - Product Shipping class
+443,Upsells,Product Edit Page &gt; Product data &gt; Linked Products &gt; Configure - Upsells
+444,Cross-sells,Product Edit Page &gt; Product data &gt; Linked Products &gt; Configure - Cross-sells
+445,Attribute - Add Product Level,Product Edit Page &gt; Product data &gt; Attributes &gt; Custom Product Attribute &gt; Click - Add
+446,Attribute - Select Global Attribute,Product Edit Page &gt; Product data &gt; Attributes &gt; Select - Global Attribute &gt; Click - Add
+447,Attribute - Display on Product Page,Product Edit Page &gt; Product data &gt; Attributes &gt; Edit Attribute &gt; Check - Display on Product Page
+448,Attribute - Hide on Product Page,Product Edit Page &gt; Product data &gt; Attributes &gt; Edit Attribute &gt; Uncheck - Display on Product Page
+449,Purchase note,Product Edit Page &gt; Product data &gt; Advanced &gt; Define - Purchase note
+450,Menu Order,Product Edit Page &gt; Product data &gt; Advanced &gt; Define - Order Position
+451,Enable reviews,Product Edit Page &gt; Product data &gt; Advanced &gt; Check - Enable reviews
+452,Disable reviews,Product Edit Page &gt; Product data &gt; Advanced &gt; Uncheck - Enable reviews
+453,Linked Products - Grouped Products,Product Edit Page &gt; Product data &gt; Linked Products &gt; Configure - Grouped Products
+454,External Product - Product URL,Product Edit Page &gt; Product data &gt; General &gt; Define - Product URL
+455,External Product - Button text,Product Edit Page &gt; Product data &gt; General &gt; Define - Button text
+456,Attribute - Available for Variations,Product Edit Page &gt; Product data &gt; Attributes &gt; Select - Attribute &gt; Check - Used for Variations
+457,Attribute - Unavailable for Variations,Product Edit Page &gt; Product data &gt; Attributes &gt; Select - Attribute &gt; Uncheck - Used for Variations
+458,Enable Variation,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Check - Enable
+459,Disable Variation,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Uncheck - Enable
+460,Variation - Virtual,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Check - Virtual
+461,Variation - Physical Variation,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Uncheck - Virtual
+462,Variation - Downloadable,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Check - Downloadable
+463,Variation - Not Downloadable,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Uncheck - Downloadable
+464,Variation - Virtual and Downloadable,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Check - Both Virtual and Downloadable field
+465,Variation - Manage Stock,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Check - Manage Stock
+466,Variation - In stock,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Stock Status &gt; Define - In backorder
+467,Variation - Out of stock,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Stock Status &gt; Define - Out of Stock
+468,Variation - In backorder,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Stock Status &gt; Define - In backorder
+469,Variation - Stock Quantity,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Define - Stock Quantity
+470,Variation - backorders? - Do not allow,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Allow backorders? &gt; Select - Do not allow
+471,"Variation - backorders? - Allow, but notify customers","Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Allow backorders? &gt; Select - Allow, but notify customers"
+472,Variation - backorders? - Allow,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Allow backorders? &gt; Select - Allow
+473,Variation - Regular price for Variation,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Define - Regular price
+474,Variation - Sale Price for variation,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Define Sale price
+475,Variation - Shipping Class,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Select - Shipping Class
+476,Variation - Tax Class,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Select - Tax Class
+477,Variation - Weight and Dimensions,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Define - Weight and Dimensions
+478,Variation - Description,Product Edit Page &gt; Product data &gt; Variations &gt; Select - Variation &gt; Define - Description
+479,Product - Categories,WooCommerce &gt; Products &gt; Categories
+480,Product - Tags,WooCommerce &gt; Products &gt; Tags
+481,Product - Global Attributes,WooCommerce &gt; Products &gt; Attributes
+482,Product - Tabs,WooCommerce &gt; Products &gt; Tabs
+483,Analytics - Overview,WooCommerce &gt; Analytics &gt; Overview
+484,Analytics - Revenue,WooCommerce &gt; Analytics &gt; Revenue
+485,Analytics - Orders,WooCommerce &gt; Analytics &gt; Orders
+486,Analytics - Products,WooCommerce &gt; Analytics &gt; Products
+487,Analytics - Variations,WooCommerce &gt; Analytics &gt; Variations
+488,Analytics - Categories,WooCommerce &gt; Analytics &gt; Categories
+489,Analytics - Coupons,WooCommerce &gt; Analytics &gt; Coupons
+490,Analytics - Taxes,WooCommerce &gt; Analytics &gt; Taxes
+491,Analytics - Downloads,WooCommerce &gt; Analytics &gt; Downloads
+492,Analytics - Reports,WooCommerce &gt; Analytics &gt; Reports
+493,Analytics - Stock,WooCommerce &gt; Analytics &gt; Stock
+494,Analytics - Settings,WooCommerce &gt; Settings &gt; Analytics
+495,Analytics - Excluded Statuses,WooCommerce &gt; Settings &gt; Analytics &gt; Excluded Statuses &gt; Check - Status that needs to be excluded from Analytics
+496,Analytics - Actionable Statuses,WooCommerce &gt; Settings &gt; Analytics &gt; Actionable Statuses &gt; Check - Status that needs action from store admin
+497,Analytics - Default Date Range,WooCommerce &gt; Settings &gt; Analytics &gt; Default Date Range &gt; Configure - Default date range
+498,Analytics - Import Historical Data,WooCommerce &gt; Settings &gt; Analytics &gt; Import Historical Data
+499,Coupon - Percentage Discount,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; General &gt; Discount type - Percentage Discount
+500,Coupon - Fixed cart discount,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; General &gt; Discount type - Fixed cart discount
+501,Coupon - Fixed product discount,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; General &gt; Discount type - Percentage Discount
+502,Coupon - Allow free shipping,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; General &gt; Allow free shipping &gt; Check - Check this box if the coupon grants free shipping
+503,Coupon - Coupon expiry date,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; General &gt; Coupon expiry date &gt; Define - Coupon expiry date
+504,Coupon - Minimum spend,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; Usage Restriction &gt; Minimum spend &gt; Define - Minimum Spend allowed to use the coupon
+505,Coupon - Maximum spend,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; Usage Restriction &gt; Maximum spend &gt; Define - Minimum Spend allowed to use the coupon
+506,Coupon - Individual use only,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; Usage Restriction &gt; Individual use only &gt; Check - Check this box if the coupon cannot be used in conjunction with other coupons
+507,Coupon - Exclude sale items,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; Usage Restriction &gt; Exclude sale items &gt; Check - Check this box if the coupon should not apply to items on sale
+508,Coupon - Products,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; Usage Restriction &gt; Products &gt; Define - Products
+509,Coupon - Exclude products,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; Usage Restriction &gt; Exclude products &gt; Define - Products
+510,Coupon - Product categories,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; Usage Restriction &gt; Product categories &gt; Define - Categories
+511,Coupon - Exclude categories,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; Usage Restriction &gt; Exclude categories &gt; Define - Categories
+512,Coupon - Allowed emails,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; Usage Restriction &gt; Allowed emails &gt; Define - email addresses
+513,Coupon - Usage limit per coupon,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; Usage limits &gt; Usage limit per coupon &gt; Define - No of times coupon can be used
+514,Coupon - Limit usage to X items,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; Usage limits &gt; Limit usage to X items &gt; Define - No of items the coupon can be applied to
+515,Coupon - Usage limit per user,WooCommerce &gt; Marketing &gt; Coupons &gt; Edit Coupon &gt; Usage limits &gt; Define - No of times the same user can use this coupon
+516,Store Notice,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Store Notice &gt; Define - Store notice &gt; Check - Enable Store Notice &gt; Click - Publish
+517,Shop Page - Show Products,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Catalog &gt; Shop Page display &gt; Select - Show products
+518,Shop Page - Show Categories,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Catalog &gt; Shop Page display &gt; Select - Show categories
+519,Shop Page - Show Categories and Products,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Catalog &gt; Shop Page display &gt; Select - Show categories and products
+520,Category display - Show Products,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Catalog &gt; Category display &gt; Select - Show products
+521,Category display - Show subcategories,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Catalog &gt; Category display &gt; Select - Show subcategories
+522,Category display - Show subcategories and Products,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Catalog &gt; Category display &gt; Select - Show subcategories and products
+523,Product - Default sorting (custom ordering + name),WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Catalog &gt; Default product sorting &gt; Select - Default sorting (custom ordering + name)
+524,Default product sorting - Popularity (sales),WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Catalog &gt; Default product sorting &gt; Select - Popularity (sales)
+525,Default product sorting - Average rating,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Catalog &gt; Default product sorting &gt; Select - Average rating
+526,Default product sorting - Sort by most recent,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Catalog &gt; Default product sorting &gt; Select - Sort by most recent
+527,Default product sorting - Sort by price (asc),WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Catalog &gt; Default product sorting &gt; Select - Sort by price (asc)
+528,Default product sorting - Sort by price (desc),WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Catalog &gt; Default product sorting &gt; Select - Sort by price (desc)
+529,Product Catalog - Products per row,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Catalog &gt; Products per row &gt; Define - Products per row
+530,Product Catalog - Rows per page,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Catalog &gt; Products per row &gt; Define - Rows per page
+531,Product Page - Sticky Add-To-Cart,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Page &gt; Check - Sticky Add-To-Cart
+532,Product Page - Disable Sticky Add-To-Cart,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Page &gt; Uncheck - Sticky Add-To-Cart
+533,Product Page - Product Pagination,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Page &gt; Check - Product Pagination
+534,Product Page - Disable Product Pagination,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Page &gt; Unheck - Product Pagination
+535,Product Images - Thumbnail cropping - 1:1,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Images &gt; Thumbnail cropping &gt; Select - 1:1
+536,Product Images - Thumbnail cropping - Custom,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Images &gt; Thumbnail cropping &gt; Select - Custom
+537,Product Images - Thumbnail cropping - Uncropped,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Product Images &gt; Thumbnail cropping &gt; Select - Uncropped
+538,Company name field - Hidden,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Company name field &gt; Select - Hidden
+539,Company name field - Optional,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Company name field &gt; Select - Optional
+540,Company name field - Required,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Company name field &gt; Select - Required
+541,Address line 2 field - Hidden,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Address line 2 field &gt; Select - Hidden
+542,Address line 2 field - Optional,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Address line 2 field &gt; Select - Optional
+543,Address line 2 field - Required,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Address line 2 field &gt; Select - Required
+544,Phone field - Hidden,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Phone field &gt; Select - Hidden
+545,Phone field - Optional,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Phone field &gt; Select - Optional
+546,Phone field - Required,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Phone field &gt; Select - Required
+547,Checkout - Highlight required fields with an asterisk,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Check - Highlight required fields with an asterisk
+548,Don&apos;t Highlight required fields with an asterisk,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Uncheck - Highlight required fields with an asterisk
+549,Checkout - Privacy policy page,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Privacy policy page &gt; Select - Privacy policy page
+550,Checkout - Terms and conditions page,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Terms and conditions page &gt; Select - Terms and conditions page
+551,Checkout - Privacy policy,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Privacy policy &gt; Define - Privacy policy
+552,Checkout - Terms and conditions,WP Admin &gt; Appearance &gt; Customize &gt; WooCommerce &gt; Checkout &gt; Terms and conditions &gt; Define - Terms and conditions
+553,Permalinks - Product category base,WP Admin &gt; Settings &gt; Permalinks &gt; Optional &gt; Define - Product category base
+554,Permalinks - Product tag base,WP Admin &gt; Settings &gt; Permalinks &gt; Optional &gt; Define - Product tag base
+555,Permalinks - Product attribute base,WP Admin &gt; Settings &gt; Permalinks &gt; Optional &gt; Define - Product attribute base
+556,Product permalinks - Default,WP Admin &gt; Settings &gt; Permalinks &gt; Product Permalinks &gt; Select - Default
+557,Product permalinks - Shop base,WP Admin &gt; Settings &gt; Permalinks &gt; Product Permalinks &gt; Select - Shop base
+558,Product permalinks - Shop base with category,WP Admin &gt; Settings &gt; Permalinks &gt; Product Permalinks &gt; Select - Shop base with category
+559,Product permalinks - Custom base,WP Admin &gt; Settings &gt; Permalinks &gt; Product Permalinks &gt; Select - Custom base
+560,Account Dashboard - Front end,Store &gt; My Account page&gt; Dashboard
+561,Order list - Front end,Store &gt; My Account page&gt; Orders
+562,View Order - Front end,Store &gt; My Account page&gt; Orders &gt; Click - Order# or View Button
+563,Order Again,Store &gt; My Account page&gt; Orders &gt; Click - Order# or View Button &gt; Click - Order Again button (btttom of the page)
+564,Access Download (View Order Page),Store &gt; My Account page&gt; Orders &gt; Click - Order# or View Button
+565,Access Downloads,Store &gt; My Account page&gt; Downloads
+566,View Billing / Shipping Addresses - Front end,Store &gt; My Account page&gt; Addresses
+567,Update Billing / Shipping Addresses - Front end,Store &gt; My Account page&gt; Addresses &gt; Click - Pencil icon to edit/update the address
+568,Update First name,Store &gt; My Account page&gt; Account details &gt; Update - First name
+569,Update Last name,Store &gt; My Account page&gt; Account details &gt; Update - Last name
+570,Update Display name,Store &gt; My Account page&gt; Account details &gt; Update - Display name
+571,Update Email Address - Front end,Store &gt; My Account page&gt; Account details &gt; Update - Email Address
+572,Update Password - Front end,Store &gt; My Account page&gt; Account details &gt; Update - Password
+573,Add/Remove Payment method - Front end,Store &gt; My Account page&gt; Account details &gt; Add/Remove - Payment methods
+574,Marketplace,WooCommerce &gt; Marketplace
+575,Tools - Import Products,WooCommerce &gt; Tools &gt; Import/Export &gt; Click - Run Importer (Button below WooCommerce products (CSV)) 
+576,Tools - Import Tax rates,WooCommerce &gt; Tools &gt; Import/Export &gt; Click - Run Importer (Button below WooCommerce tax rates (CSV))

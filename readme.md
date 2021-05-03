@@ -56,6 +56,11 @@ Only if your work includes sending instructions on accessing various WooCommerce
 
 Use `wpn YOUR_QUERY` instead of `wn YOUR_QUERY` and the results would include `WP Admin >` appended to the start. You can also use `wpnb YOUR_QUERY` and `wpns YOUR_QUERY` to obtain the results in bold format as Markdown or HTML respectively
 
+
+### What about the [upcoming changes in WooCommerce navigation](https://developer.woocommerce.com/2021/01/15/call-to-action-create-access-for-your-extension-in-the-new-woocommerce-navigation/)?
+Use `wnn YOUR_QUERY` instead of `wn YOUR_QUERY` and the results would be in the new WooCommerce Navigation format. You can also use `wnnb YOUR_QUERY` and `wnns YOUR_QUERY` to obtain the results in bold format as Markdown or HTML respectively
+
+
 ## How to update?
 
 * **If you don't have any custom navigation paths added:** just delete the existing workflow, and install new one
@@ -69,6 +74,10 @@ Use `wpn YOUR_QUERY` instead of `wn YOUR_QUERY` and the results would include `W
     6. All your custom path should now be retained.
 
 ### Changelog
+
+#### 1.3.0
+
+* Added support for new [WooCommerce Navigation](https://developer.woocommerce.com/2021/01/15/call-to-action-create-access-for-your-extension-in-the-new-woocommerce-navigation/).
 
 #### 1.2
 
